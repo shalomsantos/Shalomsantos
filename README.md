@@ -1,3 +1,3 @@
-<h1>
-  Olá, Seja bem vindo ao meu ambiente DEV.
-</h1>
+<div>
+  <h1>✔ Bem Vindo ✔</h1>
+</div>
