@@ -1,13 +1,14 @@
 # Prazer Sou Shalom pereira, desenvolvedor fullstack junior c# ASP.NET
 ## Estou a procura de novos desafios com as seguintes tecnologias:
-- javascript
-- jquery
-- c#
-- asp.net
-- sql server
-- html
-- css
-- visual basic
+- Javascript
+- Jquery
+- C#
+- Asp.net
+- Sql Server
+- Html
+- Css
+- Visual basic
+- React js
 <div align="center">
         <a href="https://github.com/shalomsantos">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalomsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
