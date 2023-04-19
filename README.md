@@ -1,4 +1,4 @@
-# Prazer Sou Shalom pereira, desenvolvedor fullstack junior c# ASP.NET
+# Prazer Sou Shalom pereira, desenvolvedor font-end html, css, js, vue.js, bootstrap.
 ## Estou a procura de novos desafios com as seguintes tecnologias:
 - Javascript
 - Jquery
