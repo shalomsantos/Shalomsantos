@@ -1,6 +1,6 @@
 # Desenvolvedor Full-Stack junior
 ## Seja bem vindo!! 😊
-<img src="./php.png" width="100px"> <img src="./docker.png" width="100px">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <div align="center">
         <a href="https://github.com/shalomsantos">
