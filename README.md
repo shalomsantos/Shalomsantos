@@ -1,6 +1,6 @@
 # Desenvolvedor Full-Stack junior
 ## Seja bem vindo!! 😊
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,docker,laravel,mysql,nuxtjs,nodejs,postman,ts,)](https://skillicons.dev)
 
 <div align="center">
         <a href="https://github.com/shalomsantos">
