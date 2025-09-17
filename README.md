@@ -5,6 +5,6 @@
   <a href="https://github.com/shalomsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalomsantos&layout=compact&langs_count=7&theme=dark" />
 </div>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shalomsantos&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shalomsantos&show_icons=true&theme=gotham" alt="shalomsantos" />
 
 
