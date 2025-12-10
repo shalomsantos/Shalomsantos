@@ -3,5 +3,5 @@
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,docker,nginx,postman,nodejs,vue,vuetify,nuxtjs)](https://skillicons.dev)
 <div align="center">
   <a href="https://github.com/shalomsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalomsantos&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalomsantos)](https://github.com/shalomsantos/github-readme-stats)" />
 </div>
